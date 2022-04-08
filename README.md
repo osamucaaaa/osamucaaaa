@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - Azure -> Bife de patinho
   - É possível usar num churrasco, mas não é o correto. As vezes é macio. As vezes é uma sola de sapato. É caro, mas se você tiver um bom relacionamento com o fornecedor fica mais em conta. Não é o favorito de ninguém, mas eventualmente todo mundo é obrigado a comer.
 
- - Oracle Cloud -> Hambúrguer de proteína vegetal
+- Oracle Cloud -> Hambúrguer de proteína vegetal
   - Algumas pessoas defendem com unhas e dentes dizendo que é a melhor alternativa. No fundo todo mundo sabe que é ruim.
 
 - Digital Ocean -> Miojo sabor churrasco
